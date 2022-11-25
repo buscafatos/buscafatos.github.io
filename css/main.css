@@ -1581,6 +1581,7 @@ input::-moz-focus-inner {
   }
 
   .intro-social {
+    display: none;
   }
 
 }
@@ -2493,11 +2494,6 @@ html.no-csstransitions .intro-content__bottom {
     transform: translate3d(100%, 0, 0) rotate(-90deg);
     right: 3.2rem;
     left: auto;
-  }
-
-  .intro-content__notify {
-    margin-bottom: 15rem;
-    margin-top: -3.4rem;
   }
 
 }
