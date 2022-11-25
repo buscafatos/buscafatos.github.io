@@ -1557,6 +1557,10 @@ input::-moz-focus-inner {
     height: 20px;
   }
 
+  .intro-content__notify {
+    margin-top: -3.4rem;
+}
+
 }
 
 @media screen and (max-width:600px) {
@@ -1574,6 +1578,9 @@ input::-moz-focus-inner {
 
   .header-email {
     left: 3.2rem;
+  }
+
+  .intro-social {
   }
 
 }
@@ -2418,7 +2425,8 @@ html.no-csstransitions .intro-content__bottom {
   }
 
   .intro-content__notify {
-    margin-top: 3.6rem;
+    margin-bottom: 15rem;
+    margin-top: -3.4rem;
   }
 
 }
