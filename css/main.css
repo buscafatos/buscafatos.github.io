@@ -1593,6 +1593,9 @@ input::-moz-focus-inner {
   }
 
 
+ .intro-social {
+    display: none;
+  }
 }
 
 
