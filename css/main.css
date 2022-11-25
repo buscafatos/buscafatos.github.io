@@ -1584,9 +1584,6 @@ input::-moz-focus-inner {
     left: 4.2rem;
   }
 
-  .header-email {
-    display: none;
-  }
 
 }
 
@@ -1862,7 +1859,7 @@ input::-moz-focus-inner {
   align-items: flex-end;
   position: absolute;
   left: 20px;
-  bottom: 9.6rem;
+  bottom: 7.0rem;
 }
 
 
@@ -2481,9 +2478,7 @@ html.no-csstransitions .intro-content__bottom {
     margin-right: 5rem;
   }
 
-  .intro-social {
-    display: none;
-  }
+  
 
   .intro-scroll {
     -webkit-transform: rotate(-90deg) translate3d(0, 100%, 0);
